@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Molten-Core-Game/precache-manifest.ff535eb3e54c04f482d4894f572c842e.js"
+  "/Molten-Core-Game/precache-manifest.fcfc31c9d658978a81085be3a7b7ccb6.js"
 );
 
 self.addEventListener('message', (event) => {

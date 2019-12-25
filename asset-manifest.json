@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Molten-Core-Game/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Molten-Core-Game/static/js/main.efe2011e.chunk.js",
-    "main.js.map": "/Molten-Core-Game/static/js/main.efe2011e.chunk.js.map",
+    "main.css": "/Molten-Core-Game/static/css/main.1d9eb111.chunk.css",
+    "main.js": "/Molten-Core-Game/static/js/main.78718a1f.chunk.js",
+    "main.js.map": "/Molten-Core-Game/static/js/main.78718a1f.chunk.js.map",
     "runtime-main.js": "/Molten-Core-Game/static/js/runtime-main.4242ee94.js",
     "runtime-main.js.map": "/Molten-Core-Game/static/js/runtime-main.4242ee94.js.map",
-    "static/js/2.4dc8e909.chunk.js": "/Molten-Core-Game/static/js/2.4dc8e909.chunk.js",
-    "static/js/2.4dc8e909.chunk.js.map": "/Molten-Core-Game/static/js/2.4dc8e909.chunk.js.map",
+    "static/js/2.41519b57.chunk.js": "/Molten-Core-Game/static/js/2.41519b57.chunk.js",
+    "static/js/2.41519b57.chunk.js.map": "/Molten-Core-Game/static/js/2.41519b57.chunk.js.map",
     "index.html": "/Molten-Core-Game/index.html",
-    "precache-manifest.ff535eb3e54c04f482d4894f572c842e.js": "/Molten-Core-Game/precache-manifest.ff535eb3e54c04f482d4894f572c842e.js",
+    "precache-manifest.fcfc31c9d658978a81085be3a7b7ccb6.js": "/Molten-Core-Game/precache-manifest.fcfc31c9d658978a81085be3a7b7ccb6.js",
     "service-worker.js": "/Molten-Core-Game/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Molten-Core-Game/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4dc8e909.chunk.js.LICENSE": "/Molten-Core-Game/static/js/2.4dc8e909.chunk.js.LICENSE",
+    "static/css/main.1d9eb111.chunk.css.map": "/Molten-Core-Game/static/css/main.1d9eb111.chunk.css.map",
+    "static/js/2.41519b57.chunk.js.LICENSE": "/Molten-Core-Game/static/js/2.41519b57.chunk.js.LICENSE",
+    "static/media/App.css": "/Molten-Core-Game/static/media/background.7f88441c.jpg",
     "static/media/logo.svg": "/Molten-Core-Game/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4242ee94.js",
-    "static/js/2.4dc8e909.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.efe2011e.chunk.js"
+    "static/js/2.41519b57.chunk.js",
+    "static/css/main.1d9eb111.chunk.css",
+    "static/js/main.78718a1f.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e96ab816ad8a93c1800eb13b54925eee",
+    "revision": "3b1f533eb0af13726545e6032965fd58",
     "url": "/Molten-Core-Game/index.html"
   },
   {
-    "revision": "85cb9d3d40ce361c46bc",
-    "url": "/Molten-Core-Game/static/css/main.1d9eb111.chunk.css"
+    "revision": "13f58acb6a2b2b61af46",
+    "url": "/Molten-Core-Game/static/css/main.9dfc6da3.chunk.css"
   },
   {
     "revision": "a74c2a67ee75da1a8769",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Molten-Core-Game/static/js/2.41519b57.chunk.js.LICENSE"
   },
   {
-    "revision": "85cb9d3d40ce361c46bc",
-    "url": "/Molten-Core-Game/static/js/main.78718a1f.chunk.js"
+    "revision": "13f58acb6a2b2b61af46",
+    "url": "/Molten-Core-Game/static/js/main.e637f196.chunk.js"
   },
   {
     "revision": "4343c5d5d5cf8ba4896e",
@@ -26,9 +26,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f88441c4ff9e12d8977d859d1fe52ca",
     "url": "/Molten-Core-Game/static/media/background.7f88441c.jpg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/Molten-Core-Game/static/media/logo.5d5d9eef.svg"
   }
 ]);

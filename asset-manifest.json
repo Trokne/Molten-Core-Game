@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/Molten-Core-Game/static/css/main.1d9eb111.chunk.css",
-    "main.js": "/Molten-Core-Game/static/js/main.78718a1f.chunk.js",
-    "main.js.map": "/Molten-Core-Game/static/js/main.78718a1f.chunk.js.map",
+    "main.css": "/Molten-Core-Game/static/css/main.9dfc6da3.chunk.css",
+    "main.js": "/Molten-Core-Game/static/js/main.e637f196.chunk.js",
+    "main.js.map": "/Molten-Core-Game/static/js/main.e637f196.chunk.js.map",
     "runtime-main.js": "/Molten-Core-Game/static/js/runtime-main.4242ee94.js",
     "runtime-main.js.map": "/Molten-Core-Game/static/js/runtime-main.4242ee94.js.map",
     "static/js/2.41519b57.chunk.js": "/Molten-Core-Game/static/js/2.41519b57.chunk.js",
     "static/js/2.41519b57.chunk.js.map": "/Molten-Core-Game/static/js/2.41519b57.chunk.js.map",
     "index.html": "/Molten-Core-Game/index.html",
-    "precache-manifest.fcfc31c9d658978a81085be3a7b7ccb6.js": "/Molten-Core-Game/precache-manifest.fcfc31c9d658978a81085be3a7b7ccb6.js",
+    "precache-manifest.a3c5e0fbc6e61a933932ac64588268eb.js": "/Molten-Core-Game/precache-manifest.a3c5e0fbc6e61a933932ac64588268eb.js",
     "service-worker.js": "/Molten-Core-Game/service-worker.js",
-    "static/css/main.1d9eb111.chunk.css.map": "/Molten-Core-Game/static/css/main.1d9eb111.chunk.css.map",
+    "static/css/main.9dfc6da3.chunk.css.map": "/Molten-Core-Game/static/css/main.9dfc6da3.chunk.css.map",
     "static/js/2.41519b57.chunk.js.LICENSE": "/Molten-Core-Game/static/js/2.41519b57.chunk.js.LICENSE",
-    "static/media/App.css": "/Molten-Core-Game/static/media/background.7f88441c.jpg",
-    "static/media/logo.svg": "/Molten-Core-Game/static/media/logo.5d5d9eef.svg"
+    "static/media/App.css": "/Molten-Core-Game/static/media/background.7f88441c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4242ee94.js",
     "static/js/2.41519b57.chunk.js",
-    "static/css/main.1d9eb111.chunk.css",
-    "static/js/main.78718a1f.chunk.js"
+    "static/css/main.9dfc6da3.chunk.css",
+    "static/js/main.e637f196.chunk.js"
   ]
 }
